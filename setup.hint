@@ -1,0 +1,6 @@
+category: Audio Python
+requires: python
+sdesc: "Python ID3 tag module"
+ldesc: "This module allows one to read and manipulate so-called ID3 
+informational tags on MP3 files through an object-oriented Python 
+interface."

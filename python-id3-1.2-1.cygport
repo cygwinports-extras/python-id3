@@ -1,0 +1,6 @@
+inherit distutils
+
+DESCRIPTION="Python ID3 tag module"
+HOMEPAGE="http://id3-py.sourceforge.net/"
+SRC_URI="mirror://sourceforge/id3-py/id3-py_${PV}.tar.gz"
+SRC_DIR="id3-py-${PV}"
